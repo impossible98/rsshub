@@ -1,0 +1,11 @@
+{
+  "name": "rsshub",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "koa": "^2.15.0"
+  }
+}
